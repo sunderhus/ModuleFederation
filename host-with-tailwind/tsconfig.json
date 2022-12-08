@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "*": ["./@mf-typescript/*"]
+        },
+        "module": "commonjs",
+        "jsx": "react",
+        "esModuleInterop": true,
+        "strict": true, 
+    }
+}

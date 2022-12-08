@@ -1,0 +1,39 @@
+:root{
+  --primary: #F3652B;
+  --background: #1E1E1E;
+  --light: #eee; 
+}
+
+html{
+  font-size:62.5%;
+}
+body {
+  font-size:1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--background)
+}
+
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+  max-width: 80rem;
+  margin-top: 2rem;
+  height:100vh;
+}
+
+.container header{
+  background-color:var(--background);
+  padding:2rem;
+  margin-top:2rem;
+  text-align:center;
+  border: 0.4rem solid;
+  border-radius: 0.4rem;
+  border-color:var(--primary);
+  color:var(--primary);
+}
+
+.container > p {
+  color: var(--light);
+}
+
