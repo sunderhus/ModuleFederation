@@ -67,7 +67,7 @@ We welcome contributions from the community to make the ModuleFederation project
 4. Open a pull request, describing the changes you made and their purpose.
 
 ## VUE fan?
-I got a repository with a VUE project to federate a complete app as a widget for others (here)[https://github.com/sunderhus/federated-widget/]
+I got a repository with a VUE project to federate a complete app as a widget for others [here](https://github.com/sunderhus/federated-widget/)
 
 ## Issues
 
@@ -79,6 +79,6 @@ ModuleFederation is licensed under the [MIT License](LICENSE.md), which means yo
 
 ## Contact
 
-For any project-related inquiries or communication, you can reach out me at (Matheus Sunderhus Linkedin)[https://www.linkedin.com/in/matheus-sunderhus/]
+For any project-related inquiries or communication, you can reach out me at [Matheus Sunderhus Linkedin](https://www.linkedin.com/in/matheus-sunderhus/)
 
 Thank you for your interest in the ModuleFederation universe! Happy coding!
