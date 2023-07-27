@@ -39,9 +39,9 @@ cd ModuleFederation
 
 ```
 npm install
+```
 
-// or
-
+```
 yarn
 ```
 
@@ -49,9 +49,9 @@ yarn
 
 ```
 npm run dev
+```
 
-//or 
-
+```
 yarn dev
 ```
 
