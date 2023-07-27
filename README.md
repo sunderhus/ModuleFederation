@@ -66,6 +66,9 @@ We welcome contributions from the community to make the ModuleFederation project
 3. Commit your changes and push them to your fork.
 4. Open a pull request, describing the changes you made and their purpose.
 
+## VUE fan?
+I got a repository with a VUE project to federate a complete app as a widget for others (here)[https://github.com/sunderhus/federated-widget/]
+
 ## Issues
 
 If you encounter any bugs, have questions, or want to suggest improvements, please feel free to open an issue on the repository. We appreciate your feedback and will address the concerns promptly.
